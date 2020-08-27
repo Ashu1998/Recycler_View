@@ -6,6 +6,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 //afjhjakdf
 //afsjdfla
+//ajfajsdfkas
 public class MainActivity extends AppCompatActivity {
 
     private RecyclerView recyclerView;
